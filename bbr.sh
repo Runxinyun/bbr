@@ -6,8 +6,8 @@ export PATH
 #	System: CentOS 6/7, Debian 8+, Ubuntu 16+
 #	Description: 一键全自动优化加速你的服务器
 #	Version: 1.0.4
-#	版权: 3AmCloud
-#	官网: vps.3amcloud.online
+#	版权: 润信云
+#	官网: www.runxinyun.com
 #=================================================
 
 RED='\033[0;31m'
@@ -592,8 +592,8 @@ show_menu() {
     echo -e "${BLUE}║       BBR一键加速脚本 v${sh_ver} (优化版)        ║${PLAIN}"
     echo -e "${BLUE}║       适用于Linux新手，自动检测依赖            ║${PLAIN}"
     echo -e "${BLUE}║                                                 ║${PLAIN}"
-    echo -e "${BLUE}║       版权: 3AmCloud                              ║${PLAIN}"
-    echo -e "${BLUE}║       官网: vps.3amcloud.online                   ║${PLAIN}"
+    echo -e "${BLUE}║       版权: 润信云                            ║${PLAIN}"
+    echo -e "${BLUE}║       官网: www.runxinyun.com                   ║${PLAIN}"
     echo -e "${BLUE}╚═════════════════════════════════════════════════╝${PLAIN}"
     echo ""
     show_status
